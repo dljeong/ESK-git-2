@@ -6,3 +6,5 @@
 puts "Minwoo Lee"
 
 puts "Juyoung Son"
+
+puts "Daelyong Jeong"
